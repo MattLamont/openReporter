@@ -1,0 +1,24 @@
+Welcome to the eTA© installer.
+
+eTA© is a learning tool which helps students to improve their 
+reading speed and comprehension with number of functions to help 
+prepare for tests.
+
+The eTA© is implemented based on an open-source project named 
+Mary (Modular Architecture for Research on speed sYnthesis).  
+It is developed on Netbeans IDE 6.1 and exploits Java Desktop 
+Application template and Java Swing components for designing user 
+interface. 
+
+The software is based on traditional speed reading principles, 
+text mining techniques and a proprietary reinforcement technique 
+currently underdevelopment.  The graphic user interface allows the 
+student to more efficiently mark and take notes on important parts
+of the reading material.  It also generates a content analysis 
+report based on 
+1) the student’s highlighted words and phrases; 
+2) the student’s notes and 
+3) the content analyzer.  The content analyzer gives a word count 
+of important names and key concepts and a vector context of these 
+words and names.
+

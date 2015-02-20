@@ -1,0 +1,252 @@
+Word count
+Web                 30
+technology          30
+people              20
+operating           17
+Java                98
+Kim                 60
+team                34
+products            29
+Oak                 28
+Naughton            28
+Sun's               25
+computers           24
+Microsoft           22
+recalls             22
+cost                20
+lots                18
+software            18
+remembers           17
+engineer            17
+users               17
+
+
+Vector summary of content
+1. Begin
+ For a while, lots of people thought they knew its name ("it's YAJSU," insiders declared smugly, "for Yet Another Java Start-Up"), But then the name turned out to be a hoax, and nobody even knew that.
+ It was into this sizzle-starved environment that Java exploded in the spring of 1995.
+ And so as Java proliferated (along with several other technologies that appeared at roughly the same time; see Chapter 1), the once-static Web awakened.
+early Java-powered Web may not have been as visceral as Terminator.
+Significantly, it was also secure, because it is all but impossible for even the most malicious and brilliant of hackers to lace a Java pro; gram with viruses.
+ Together, Arthur, Sami, and Jonathan comprised roughly a quarter of Java's development team during its migration from the doomed foundries of interactive television to the Internet's booming frontier.
+ It was also invisible technology.
+ In short, they had to figure out what the hell they were going to do, now that they had a (still nameless) company, a teensy office, and some business cards (Kim's own card said little but Java Entrepreneur for months), So after a final smile and wave on their way out the door at Sun, they vanished.
+ And not long after that they had a CEO, in Kim.
+Kim traces the passion for technology that started her on the path to all of this back to her hometown of Berkeley, California.
+ Kim first visited that airy institute as an overly-energized sixth grader with an insatiable interest in roughly everything.
+ But then a troublesome Achilles tendon teamed up with a growing interest in technology to tum her focus "to this computer stuff.
+workplace in that "it was a lot of fun," and had "lots of smart people [and] lots of good energy.
+ Naughton knew McNealy reasonably well because they played hockey on the same team.
+NeWS system, a powerful window-based interface for the Unix operating system.
+
+2. Body
+ It made them ready for a Web that could do something-as the Web of their day could barely go bleep.
+ Java applications (or "applets," as they were universally called early in the language's history) can also be embedded into Web pages as easily as images or lines of text.
+ This means they can enliven, enlogic, or enbleepen Web sites in almost any imaginable way.
+The public exposure that she and her cofounders received during the early Java boom helped make Marimba a high-profile startup from outset.
+ The CEO role is also a very public one, and her work on the Java team had given her a great deal of exposure to customers, analysts, and the press.
+ For these and other reasons, Kim stopped being a Java Entrepreneur in the summer of 1996, and became a President and CEO.
+ The Berkeley of her early childhood is now remembered as a breeding ground for young radicals, not as a hotbed of budding Java Entrepreneurs.
+Kim's home was as multinational as her famously diverse hometown was multicultural.
+ Kim is close to her brother, who, she laughs, "was supposed to be the engineer.
+ And as early as high school, Kim began to suspect that not only might she become an engi neer, but that she might become an entrepreneur as well.
+ Kim recalls that he loved the independence this brought him.
+ She began to teach programming there early in college, and found that she loved "explaining and deciphering technology, and communicating my passion for technology.
+Despite her interest in technology, Kims undergraduate curriculum focused on natural rather than computer sciences.
+ Intellicorp specialized in artificial intelligence technology, and at the time (1985), Al was in its heyday.
+ Intellicorp was one of those, and Kim remembers her stint there as "Just an amazing first job.
+ It was like being in college, because everyone was really focused on the technology and how cool it was.
+ Technology for technology'S sake.
+ After a few years "it started not feeling like it was going to go so well," Kim 
+recalls, and she began to look around.
+gave Kim an entree to the company.
+Kim had not thought seriously about marketing before that.
+ ? What should the logo be, if there's a logo?" Kim remained a product manager for almost three years, and the job was always a challenge.
+Kim encountered Oak through Patrick Naughton, one of its progenitors.
+ Kim and Naughton were assigned to demo-jockey in the same room.
+ Eventually Naughton spilled the beans, and told Kim all about Oak, the language that would one day be called Java.
+ The Navigator had shown clearly it relevance on the Web came from ubiquity, and that you didn't become ubiquitous by charging all comers for your wares.
+Kim describes the team's philosophy about openness and freeness "as an organic group notion.
+ Everybody on the team, that is.
+ There was that rather large part of Sun that was not on the team, for instance.
+ And as the group's interface to much of the outside world, the B team-Kim-had some lobbying to do.
+ Kim surveyed their histories and many others.
+ She soon had plenty of hard evidence to support what the team knew viscerally: that charging royalties was "a good way to sink a programming language," and would be a great way to sink Oak.
+" Between her efforts, the engineers' own lobbying, Gosling's influence in the company's upper echelons, and the team's vocal unanimity, this case was eventually heard, accepted, and approved.
+ Kim describes this distribution as "a pretty rudimentary alpha version" of the language and the browser.
+ It was placed on a secret Web site and only a tiny group accessed it.
+ But while the team found it and its other universally positive reviews exciting, nobody really foresaw what was coming.
+As the Green team coalesced, its future members and their supporters held several discussions about its philosophy and mandate.
+ "What we were doing was so different from what Sun does, we didn't want to be even in the same hallways as other people," Gosling recalls.
+ The team even broke its link to Sun's corporate computer network for several months.
+ Sun management indulged the Green team's appetite for independence and Dove Bar budgets because of its members' credentials.
+ " James Gosling was an asset to Sun before 1990," explains Sun chief technology officer (CTO) Eric Schmidt.
+The Green team spent hundreds of hours studying seductive user interfaces in consumer products.
+ This can make a language very portable, because if its VM runs on 10 different operating systems (e.
+ It needed more engineers, especially experts in operating systems.
+ It got that when Patrick NaUghton met Kim.
+starry-eyed, Kim signed up with First Person as soon as they offered her a job.
+ It was full of brilliant people who were passionate about their technology.
+As First Person's first (and ultimately only) marketing person, Kim didn't come into ajob with much structure.
+ A tiny business development group was already working the would-be deals by the time she showed up, so she spent her first few months learning the company's technology and its business model (such as it was).
+ A few months into her job, Kim received 
+an unexpected request: First Person had a famous problem with its business plan at that point-it didn't have one-and Kim and a few others were asked to help address it.
+ Aware of this, Kim and Naughton wrote a plan recommending that Oak be deployed to the PC and Macintosh-the platforms where consumers already were, rather than where the RBOCs (regional Bell operating companies) and cable companies decreed that they should be.
+This logic proved to be wildly unpopular with many people.
+ People were scrambling, a lot of people were quitting.
+ A lot of people just went home for like three months.
+all accounts, Naughton is brilliant ("He's about the smartest person I have ever met," Kim 
+declares solemnly) and knows it (he's "kind of an enfant terrible, " another First Person alum 
+explains).
+"very minimal," in the words of one teammate.
+ It lacked most of Mosaic's functionality and almost all of its polish, and it didn't execute code sent over the net work, which is what today's Java is all about.
+ It gradually came to be about several other things: openness (anybody, could build upon the infrastructure, not just the company that de signed it); extensibility (the infrastructure could be extended in way not anticipated by its architects); and seamlessness, from a user' standpoint (invisible technology), as Kim likes to say).
+[Oak became Liveoak as the language migrated from projected lTV applications to the Web.
+ Kim was at first given no choice, and was exiled to ISO for months ("Hated every minute of it," she still mopes).
+One engineer recalls that at first she was just "sort of tolerated" when she showed up, because few saw the need for a marketing person on the team.
+ And so sort-of-toleration was the best that Kim could hope to win.
+ An engineering-centric snicker was even embedded in the team's internal nomenclature.
+ There was the A team-a core group of inner-circle engineers-and the B team, which was-not always, but for the most part-Kim.
+Bill Joy is a Sun founder, a true genius by many accounts, and an important patriarch in the history of the Unix operating system.
+" One could argue (fairly safely) that the Oak team had been left alone to dork around for quite a while by then.
+ And many on the team were looking forward to dorking around quite a bit more.
+ Schmidt insisted that the team commit to production and release dates.
+ Burt Sutherland, who ran Sun Labs, took official responsibility for the team (although for some baroque reason another manager picked up its bills).
+ The team was also assigned two frontline managers.
+ And even the frontline managers were eventually deposed in a mutiny, according to team members.
+ The browser which was named "WebRunner" after Blade Runner, a favorite of moviegoers in First Person's boondoggle video lounge) shed light at the d of its long tunnel, helping to tighten its cohesion further.
+trademark, the team had to come up with another name before it could be launched commercially Kim's choice was "Java"].
+ This would be a logical venue for Java's official release, and the engineers went into overdrive preparing for it.
+ The work they were now doing was very different from the Green and even First Person teams' efforts, because for the first time, Java had to stop being a demo and start being a product.
+ This meant it had to be thoroughly stress-tested, debugged, and (eventually) document, which required a wholly different kind of engineering rigor (and perhaps a wholly different kind of engineer, as by now James Gosling and Chris Warth, another Oak oldtimer, were the only Green team members still working on Java).
+ One of the engineers' big remaining design objectives was to make Java secure (Kim all but insisted on this over the objections of some others on the team).
+ As they went about this and their other frenetic tasks, Kim recruited several more companies to experiment with Java so that she could later cite them to potential customers as references.
+ All of these early users turned out to be ecstatic about the language, so in the late winter, Kim and Sun's PR group decided that it was time to arrange a press leak to prime the market, 
+The PR people targeted The San Jose Mercury News (or "the Mere," as it is called) because it 
+was popularly read among the Valley's executives and engineers.
+ Before the article ran, Kim 
+decided to tell Marc Andreessen about the team's technology and plans.
+Marc to learn about Java through a speculative piece in the local press.
+lThe Mere headlined its article on Java with] the fold-line: "Why Sun thinks Hot Java will give you a lift.
+" At least as shocking as this prominent placement was that the article ran with a enlarged quote from Marc Andreessen ("the God of the Internet!" Kim later gushed) saying "What these guys are doing is undeniably, absolutely new.
+ Java's Web site was buried in traffic.
+ So in the weeks leading up to the May announcement, Kim, Eric Schmidt, and others had a relatively easy time persuading Netscape t( integrate Java with the Navigator.
+ Kim recalls that Marc gave "the technical thumbs up" and exited pretty quickly, but it took a while to come to a final agreement.
+ But Wired magazine has speculated credibly that Netscape paid a $750,000 flat fee for the right to build Java into it products.
+ This would not have been a great deal of money in light 0 Java's since-inception development budget, or of the value that the language added to the Navigator.
+ They also knew that only ubiquity could make Java truly relevant.
+ The negotiations with Netscape went late into the night before Java's debut at SunWorld.
+ But since Marc was a keynote, not a soundbite, Java moved to center stage.
+Kim recalls that it was almost like the thousands packed into San Francisco's Moscone convention center were "seeing TV for the first time.
+" The new TV-like Web had Duke somersaulting and waving from its pages.
+ Kim had championed this particular demo because she "thOUght we needed a real-world application," and nothing was realer-world to most people than their finances.
+ The conference's attendees couldn't hear enough about the new language, and every vendor on the trade-show floor (mosi of whom had nothing to do with the Web) seemed to be begging th,2 Java team for copies of its Hot java browser (as Web Runner had been renamed) to display in their booths.
+And so Java was out of its skunk works for good.
+inaccessible to most people (for now Hot java worked only on systems running Sun's Solarls 
+operating system, and on the yet-unreleased Windows 95), the tightly-coupled community of 
+serious Internet users was almost universally aware of it within days.
+technology PR for years before landing in the midst of the Java furor, and had never seen 
+anything like it.
+An especially important article appeared in August of 1995, when George Gilder discussed Java in Forbes' technology supplement ASAP.
+ His article prophesied that "To the extent that Java or a similar language prevails, software becomes truly open for the first time.
+But only a hundred days on the scene, Java was making notions like Gilder's very credible.
+ This cozy cycle, combined with other factors (including scale economies in the PC hardware market), was threatening to push nonMicrosoft operating systems into oblivion.
+ Java excitement was credited with much of the over 100 
+percent appreciation in Sun's stock price between the language's May debut and the end of the 
+year (a march that represented over $4 billion in market value).
+licensed Java after Netscape also fell under its happy spell.
+Kim did not get involved in many deals after Netscape's, as she was busy managing almost every other Java-related matter that wasn't connected to engineering.
+ From May onward Sun's sales force buried her with requests to tell The Java Story to innumerable deep-pocketed customers, even as a steady stream of wide-eyed journalists and sharp-eyed analysts filed through her office.
+Kim could keep up with all of this only by delegating.
+ Soon local sales offices were running "Java Days" seminars at which thousands of potential customers heard the Java story, Sun employees throughout the world were making Java pitches, and almost every Sun executive was moonlighting as an ardent Java evangelist.
+One of Kim's unexpected allies in spreading the Java message turned out to be the language's once-unloved new name.
+ Java was different from the names attached to so much of the Web's other fauna (Hypertext Transfer Protocol .
+ This served Java's mandate tremendously well, as it needed to be much more of a consumer product than any programming language before it.
+ After all, nobody hyped word processors based on the fact that they bad lots ofc++ inside them, but Sun wanted millions of people to know that they liked Java in their Web pages.
+ The accessible Java name made it easy to build this popular affinity.
+eight million Navigator users had became Java users by the end of 1995.
+ And by then, the Web 
+was already twinkling with interactive elements.
+CNET Java piece recommended system configurations and brands to computer buyers based on 
+their price, performance, and feature preferences (see Chapter 8).
+ Among the many things announced that day was the company's licensing of Java.
+ Many observers heralded this announcement as a triumph for both Java and Sun (Business Week referred to it as a "capitulation").
+ But while licensing the language to the world's most powerful software company was in fact essential to the goal of ubiquity, Microsoft's announcements made it clear that the company intended to both embrace and extend Internet standards like Java.
+ That notion of extension set off some serious alarms in the Java community.
+ Java was fundamentally, nay, ideologically committed to treating all computer platforms and operating systems identically.
+ But if Microsoft successfully extended Java's functionality on its own platform in unique and meaningful ways, the language could well bifurcate into Microsoft and un-Microsoft Java, sundering this commitment.
+Also in December, Microsoft announced a technology called ActiveX, which seemed to compete with Java head-on.
+ ActiveX was an older technology called OLE (Object Linking and Embedding) that Microsoft had decided to "tweak about five degrees," according to the company's ActiveX Marketing Guy, Shawn Morissey (yes, that's an official title).
+ The newly-tweaked technology was immediately labeled as a Java competitor because like Java, it enables Web site developers to attach functional code to their pages that can be downloaded and run in Web browsers (these pieces of code are called "controls" rather than "appletstt).
+ But beyond this, ActiveX and Java are fundamentally different.
+ Unlike Java, ActiveX is not a language.
+ Its controls can be written in any language, including Java.
+ Also unlike Java, ActiveX is not inherently secure.
+ And also unlike Java, ActiveX traditionally runs only on Microsoft platforms.
+ In this its announcement, like the notion of a Microsoft-only strain of Java, raised the specter of a bifurcated Web of Microsoft and un-Microsoft content and sites.
+Microsoft later quelled some (certainly not all) concerns by announcing in October of 1996 that it would cede control of the ActiveX technology to the Open Group, an independent standards body (Microsoft did not surrender the rightst to make 'its own enhancements to the technology in doing this, however).
+ By then Microsoft was also making arrangements to expedite the technology'S migration to other operating systems (this transfer was still pending as of this writing).
+ But since almost all ActiveX controls were written in operating system-specific languages, transferring the ActiveX infrastructure to nonMicrosoft operating systems would do nothing to transfer the controls, the content.
+ For this and other reasons, many viewed Microsoft's December announcements as less of an embrace, and more of a call to arms against the crossplatform, secure, and democratic precepts of Java computing.
+All of this made for gripping drama in the Java team's trenches, and it was exciting to watch from the outside too-although Jonathan Payne (who had followed Patrick Naughton to StarWave in February) found Seattle's distant sideline to be a poignantly less thrilling vantage point than Silicon Valley.
+ By then Jonathan had sacrificed countless evenings, weekends, and holidays at Java's hungry altar.
+ He had even written the first working version of the HotJava browser, for crying out loud.
+ Back home people were closing book deals, fighting off journalists, and hanging up on venture capitalists.
+Eventually he hit Arthur with an idea that he had been nurturing for some time; why not start their own Java company? Arthur liked the notion.
+ But he had never taken any of those discussions very seriously, because, like Kim, he had long toyed with the idea of starting his own company.
+ Arthur floated the idea by his officemate, Sami Shalo, and Sami liked it, giving their maybe-startup three of the sub-dozen best qualified Java engineers in the world.
+Kim was at first tom by the idea.
+galvanized behind Java, which was good.
+" This was a necessary and expected step, as Java had grown 
+far too big for the tiny team that had created it.
+In the fall of 1996, Sun's JavaSoft division (the multlhundredperson heir to the dozens-strong First Person company and the half dozen strong Green team) released the specification of an infrastructure called JavaBeans that will help enable all of this.
+ Stated simply, JavaBeans makes it easy for Java components (or beans) to "talk" to one another and collaborate.
+ JavaBeans is also compliant with a broader component infrastructure called CORBA (Common Object Request 
+
+Broker Architecture), which runs across many major operating systems, languages, and platforms, including the Netscape Navigator.
+ Java has already freed them from the need to target particular operating systems with their output.
+ JavaBeans can now free them from the need to build large, ambitious applications in order to have commercially viable code, and CORBA can enable them to leverage some of the world's vast base of non-Java code, as well as the work of millions of non-J ava developers-while also (ideally) making it irrelevant where code resides.
+[Sun believed that Java would bring software developers to enter the fabled world of Asymptopia, where large upfront development costs would be offset by profits from huge distribution.
+Java and the Web together can throw wide the gates of Asymptopia.
+
+3. End
+ And in light of the history of the desktop software market, it was easy to imagine that this could foster the emergence of a Microsoft Web.
+ Arthur found his way into First Person almost immediately after that, and was soon famous for his thick Dutch accent, his mighty intellect ("the best programmer I have ever worked with," Jonathan says), and his at times devastating candor ("He didn't bear fools lightly," shudders a former teammate).
+ In short, they needed a B team; they needed Kim.
+She also knew that life on the Java team was going to change.
+ But Kim had grown fond of her autonomy.
+ In this manner, millions of computers throughout the world could corne to collaborate and interoperate by offering the code hey host and their processing power as resources for other systems, much as hundreds of thousands of computers now share the contents )f their hard drives over the World Wide Web.
+ And this seems to have made the company deeply ambivalent about Java.
+ Yet it has also taken steps that effectively alter Java's capabilities when it runs on the Microsoft platform.
+ which is contrary to the language's tenet of treating all computers, operating systems, and toasters equally.
+ Together, they could imaginably give rise to a strain of de facto Microsoft Java, a strain distinct from the un-Microsoft Java running on unMicrosoft computers.
+ And should the Microsoft strain then proliferate and grow dominant, Java's flattening impact on the industry's field could be muted, even obviated.
+ In all of this, Microsoft is both embracing and extending Java, just as promised back in December of 1995.
+All of this is going to make for a wild ride for those already on board, and Kim is certainly game 
+for it.
+ And of course, the Java Express has already taken her a long way.
+ And, because of her very public role in Java's rise, it has brought her to be labeled in certain circles as one ofthe most capable women in the technology industry.
+ But it begs a reference to something that Esther Dyson, one of technology industry's finest thinkers, once said when asked about Ann Winblad, one of As finest investors.
+ You can't quote me as saying she's one of the most influential women in computing," Dyson was quoted as saying, but "you can quote me as saying she's one of the most influential people in computing.
+Kim has likewise proven herself to be one ofthe most capable people in technology.
+" But none of this has held Kim back.
+" Kim also points out that the gender issue is "a very complex one, because being a woman in this industry, or any industry, isn't all drawbacks.
+" Her appearance in a December 1996 Forbes cover story about women in technology is one obvious example of this kind of attention.
+But Kim generally doesn't spend much time thinking about broad issues like the role of gender in the workplace, because she frankly doesn't have much time to spare.
+ Forgoing the balance that she'd like to have in her day-to-day life, Kim instead thinks in terms of achieving balance sequentially, over spans of years, rather than spans of weeks or months.
+ To this end she talks about leading "many lives"-with this Java, Silicon Valley stint being just one of them.
+But for now, Kim doesn't worry much about Phase Next-because things are plenty busy with Phase This.
+ At least until this Java thing has played itself out.
+
+
+Keywords' dependency:
+Web(A1) 
+Java(A2):A1 
+Kim(A3):A2 
+team(A4):A3 
+engineer(A5):A4 
+recalls(A6):A5 
+Oak(A7):A6 Naughton(B7):A6 
+remembers(A8):A7 Sun's(B8):A7 people(C8):A7 software(D8):A7 operating(E8):B7 technology(F8):B7 
+users(A9):A8 cost(B9):C8 products(C9):C8 lots(D9):B8 Microsoft(E9):C8 computers(F9):F8 
+

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<shortcuts>
+	  <skipIfNotSupported/>
+		  <programGroup defaultName="eReader"
+                location="applications"/>
+  <shortcut
+    name="eReader"
+    target="$INSTALL_PATH\bin\eSpeaker.bat"
+    commandLine=""
+    workingDirectory="$INSTALL_PATH\"
+    description="Start the eSpeaker server"
+    initialState="normal"
+    programGroup="yes"
+    desktop="yes"
+    applications="no"
+    startMenu="no"
+    startup="no"
+    iconFile="$INSTALL_PATH\lib\icons\mary.ico"
+    iconIndex="0">
+    <createForPack name="marybase"/>
+  </shortcut>
+
+  <shortcut
+    name="Voice Import"
+    target="$INSTALL_PATH\bin\voiceimport.bat"
+    commandLine=""
+    workingDirectory="$INSTALL_PATH\"
+    description="Start the eSpeaker server"
+    initialState="normal"
+    programGroup="yes"
+    desktop="yes"
+    applications="no"
+    startMenu="no"
+    startup="no"
+    iconFile="$INSTALL_PATH\lib\icons\mary.ico"
+    iconIndex="0">
+    <createForPack name="marybase"/>
+  </shortcut>
+
+  <shortcut
+    name="eSpeaker client"
+    target="$INSTALL_PATH\bin\eSpeakerClient.bat"
+    commandLine=""
+    workingDirectory="$INSTALL_PATH\"
+    description="Start the eSpeaker client (server must be started first!)"
+    initialState="normal"
+    programGroup="yes"
+    desktop="yes"
+    applications="no"
+    startMenu="no"
+    startup="no"
+    iconFile="$INSTALL_PATH\lib\icons\mary.ico"
+    iconIndex="0">
+    <createForPack name="maryclient"/>
+  </shortcut>
+
+  <shortcut
+    name="Redstart"
+    target="$INSTALL_PATH\bin\redstart.bat"
+    commandLine=""
+    workingDirectory="$INSTALL_PATH\"
+    description="Tool for recording new OpenMary voices"
+    initialState="normal"
+    programGroup="yes"
+    desktop="no"
+    applications="no"
+    startMenu="no"
+    startup="no"
+    iconFile="$INSTALL_PATH\lib\icons\mary.ico"
+    iconIndex="0">
+    <createForPack name="redstart"/>
+  </shortcut>
+
+  <shortcut
+    name="Voice Import Tools"
+    target="$INSTALL_PATH\bin\voiceimport.bat"
+    commandLine=""
+    workingDirectory="$INSTALL_PATH\"
+    description="The voice import tools for building new OpenMary voices"
+    initialState="normal"
+    programGroup="yes"
+    desktop="no"
+    applications="no"
+    startMenu="no"
+    startup="no"
+    iconFile="$INSTALL_PATH\lib\icons\mary.ico"
+    iconIndex="0">
+    <createForPack name="voiceimport"/>
+  </shortcut>
+
+  <shortcut
+    name="Install Voices"
+    target="$INSTALL_PATH\bin\installvoices.bat"
+    commandLine=""
+    workingDirectory="$INSTALL_PATH\"
+    description="Download and install additional voices for OpenMary"
+    initialState="normal"
+    programGroup="yes"
+    desktop="no"
+    applications="no"
+    startMenu="no"
+    startup="no"
+    iconFile="$INSTALL_PATH\lib\icons\mary.ico"
+    iconIndex="0">
+    <createForPack name="voiceimport"/>
+  </shortcut>
+
+
+  <shortcut
+    name="EmoSpeak"
+    target="$INSTALL_PATH\bin\emospeak.bat"
+    commandLine=""
+    workingDirectory="$INSTALL_PATH\"
+    description="Emotional speech synthesis (server must be started first!)"
+    initialState="normal"
+    programGroup="yes"
+    desktop="no"
+    applications="no"
+    startMenu="no"
+    startup="no"
+    iconFile="$INSTALL_PATH\lib\icons\mary.ico"
+    iconIndex="0">
+    <createForPack name="emospeak"/>
+  </shortcut>
+  
+   <shortcut
+     name="eSpeaker Uninstaller"
+     programGroup="yes"
+     desktop="no"
+     applications="no"
+     startMenu="no"
+     startup="no"
+     target="$JAVA_HOME\bin\java"
+     commandLine="-jar &quot;$INSTALL_PATH\Uninstaller\uninstaller.jar&quot;"
+     initialState="noShow"
+     iconFile="%SystemRoot%\system32\shell32.dll"
+     iconIndex="32"
+     workingDirectory=""
+     description="eSpeaker Uninstaller">
+     <createForPack name="marybase" />
+   </shortcut>
+  
+</shortcuts>
+    

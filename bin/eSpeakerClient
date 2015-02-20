@@ -1,0 +1,30 @@
+#!/bin/bash
+##########################################################################
+# Copyright (C) 2000-2006 DFKI GmbH.
+# Copyright (C) 2009 Tang Research.
+# All rights reserved. Use is subject to license terms.
+#
+##########################################################################
+
+# Set the Mary base installation directory in an environment variable:
+export MARY_BASE="$INSTALL_PATH"
+
+cd $MARY_BASE/bin
+
+# CYGWIN support:
+cygwin=0;
+case "`uname`" in
+CYGWIN*) cygwin=1;;
+esac
+
+if [ $cygwin = 1 ] ; then
+  MARY_BASE=`cygpath "$MARY_BASE"`
+fi
+
+export CLASSPATH=$MARY_BASE/java/maryclient.jar:$MARY_BASE/java/java-diff.jar:$MARY_BASE/java/jacob.jar:$MARY_BASE/java/freetts.jar
+
+if [ $cygwin = 1 ] ; then
+  CLASSPATH=`cygpath --path --windows "$CLASSPATH"`
+fi
+
+java -ea -cp $CLASSPATH -Dserver.host=localhost $* de.dfki.lt.mary.client.MaryClientGUICustomized

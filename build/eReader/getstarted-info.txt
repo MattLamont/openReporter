@@ -1,0 +1,11 @@
+The eSpeaker© system has now been installed in $INSTALL_PATH !
+
+eSpeaker© is built base on server/client architecture.  
+To start the program:
+  
+   A shortcut for starting it should have been created for you 
+on your desktop when you installed the system.
+
+   You can also find the program at $INSTALL_PATH\bin\eSpeaker
+     
+Have fun! :-)

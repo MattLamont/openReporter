@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<userInput>
+  <!-- Install -->
+    <panel order="0">
+        <createForPack name="marybase" />       
+	<field type="rule" variable="KeyCode">
+	<spec txt="Serial Number" bold="true" size="2"
+		layout="AN:11:11 - AN:3:3 - AN:7:7"		
+	/>		
+	<validator
+  	class="com.izforge.izpack.util.RegularExpressionValidator"
+      	txt="Invalid Serial Number!">
+    	<param
+        	name="pattern"
+        	value="exclusively-for-Springs"
+    	/>
+	</validator>
+	<validator
+	class="com.izforge.izpack.util.NotEmptyValidator"
+	txt="Field can't be empty!"	
+	/>	
+	</field>        
+    </panel>    
+</userInput>
+
